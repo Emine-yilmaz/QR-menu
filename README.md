@@ -13,3 +13,4 @@ In this application, I created the QR-menu project using html, css and js. You c
 
 ## Gif
 ![](./images/QRmenu.gif)
+
